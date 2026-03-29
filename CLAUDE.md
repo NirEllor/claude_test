@@ -18,6 +18,9 @@ cmd.exe /c start "" "C:\Users\Nir\claude_test\tictactoe.html"
 
 After completing any meaningful unit of work, commit and push to GitHub so progress is never lost:
 
+- **Remote:** https://github.com/NirEllor/claude_test
+- **Branch:** `master`
+
 ```bash
 git add <specific-files>
 git commit -m "short, descriptive message in imperative mood"
